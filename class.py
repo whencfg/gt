@@ -1,5 +1,5 @@
 class Shape(object):
-  def __init__(self,name,area,id):
+  def __init__(self,name,length,id):
     self.name=name
-    self.area=area
+    self.length=length
     self.id=id
